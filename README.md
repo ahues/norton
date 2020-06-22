@@ -1,0 +1,2 @@
+# norton
+norton script.
